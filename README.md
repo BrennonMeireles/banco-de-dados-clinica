@@ -1,6 +1,12 @@
 # Banco de Dados de uma Clínica Médica
 
-Este é um projeto de banco de dados de uma clínica médica desenvolvido como parte do curso de Fundamentos de MySQL oferecido pelo Senai. O objetivo deste projeto é praticar os conceitos básicos de modelagem de dados, consultas SQL e interações com um banco de dados MySQL.
+Este é um projeto de banco de dados de uma clínica médica desenvolvido como parte do curso de Fundamentos de MySQL oferecido pelo Senai. O objetivo deste projeto é praticar os conceitos básicos de modelagem de dados, consultas SQL e interações com um banco de dados MySQL.<br><br>
+
+<div align="center">
+  <img src="https://github.com/BrennonMeireles/banco-de-dados-clinica/assets/141636246/1a8368b1-ea18-4d4e-b67b-abb25f1c6080" alt="image" width="600px">
+</div>
+
+<br><br>
 
 ## Estrutura do Banco de Dados
 

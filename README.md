@@ -11,13 +11,13 @@ O banco de dados da clínica é composto por várias tabelas que representam ent
 - **Tabela de Pacientes**: Registra informações sobre os pacientes que visitam a clínica, como nome, data de nascimento, rg, cidade, doença, plano de saude.
 - **Tabela de Funcionários**: Mantém registros dos funcionários que trabalham na clínica, como nome, cargo , matricula, data de nascimento, data de admissão e salario.
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github.com/BrennonMeireles/banco-de-dados-clinica/assets/141636246/1a8368b1-ea18-4d4e-b67b-abb25f1c6080" alt="image" width="600px">
 </div>
 
-<br><br>
+<br>
 
 ## Funcionalidades ℹ️
 

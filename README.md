@@ -1,8 +1,8 @@
-# Banco de Dados de uma Clínica Médica
+# Banco de Dados de uma Clínica Médica 🖥️
 
 Este é um projeto de banco de dados de uma clínica médica desenvolvido como parte do curso de Fundamentos de MySQL oferecido pelo Senai. O objetivo deste projeto é praticar os conceitos básicos de modelagem de dados, consultas SQL e interações com um banco de dados MySQL.
 
-## Estrutura do Banco de Dados
+## Estrutura do Banco de Dados 🧱
 
 O banco de dados da clínica é composto por várias tabelas que representam entidades do mundo real, como salas, médicos, pacientes e funcionários. Aqui está uma visão geral da estrutura do banco de dados:
 
@@ -19,7 +19,7 @@ O banco de dados da clínica é composto por várias tabelas que representam ent
 
 <br><br>
 
-## Funcionalidades
+## Funcionalidades ℹ️
 
 Este projeto oferece várias funcionalidades básicas, incluindo:
 
@@ -27,14 +27,14 @@ Este projeto oferece várias funcionalidades básicas, incluindo:
 - Consultas para recuperar informações específicas, como listar todos os médicos disponíveis em determinado horário ou encontrar salas disponíveis em um determinado dia.
 - Relacionamentos entre as tabelas para garantir integridade referencial e consistência dos dados.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas ⚙️
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - MySQL: Sistema de gerenciamento de banco de dados relacional usado para armazenar e manipular os dados da clínica.
 - Linguagem SQL: Utilizada para escrever consultas e comandos de manipulação de dados para interagir com o banco de dados.
 
-## Como Utilizar
+## Como Utilizar 🟦 
 
 Para utilizar este projeto, siga estas etapas:
 
@@ -43,10 +43,6 @@ Para utilizar este projeto, siga estas etapas:
 3. Conecte-se ao banco de dados usando um cliente MySQL ou qualquer outra ferramenta de sua preferência.
 4. Execute consultas SQL para interagir com o banco de dados, inserindo, atualizando, excluindo ou consultando registros conforme necessário.
 
-## Contribuições
+## Contribuições 🌏
 
 Contribuições são bem-vindas! Se você identificar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir o código conforme necessário.
